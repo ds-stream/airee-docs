@@ -23,4 +23,4 @@ Airee covers the entire process, from design and installation, to Airflow implem
 ![](https://github.com/ds-stream/Airee-docs/blob/main/Wiki_images/roadmap.PNG)
 
 ## More info
-You can find full documentation on Airee-docs github wiki.
+You can find full documentation on [Airee-docs github wiki](https://github.com/ds-stream/Airee-docs/wiki).

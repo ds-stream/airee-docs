@@ -18,3 +18,9 @@ Airee covers the entire process, from design and installation, to Airflow implem
 - Platform takes into account cloud cost-effectivnes and provides option to pause infrastructure if it is unused.
 - Airee is an open-sourced project, users can develop customization suited for their business case.
 - Platform is created and maintained by DSStream, team of over 100 experienced engineers working with people from Fortune 500 companies
+
+## Roadmap
+![](https://github.com/ds-stream/Airee-docs/blob/main/Wiki_images/roadmap.PNG)
+
+## More info
+You can find full documentation on Airee-docs github wiki.

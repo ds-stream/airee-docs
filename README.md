@@ -1,8 +1,8 @@
 # Airee-docs
 ## What is Airee?
 
-Airee is a managed platform for Apache Airflow - leading orchestration tool for data workflows. 
-It makes deployment of Kubernetes Cluster with Airflow application easy. 
+Airee is a managed platform for Apache Airflow - leading orchestration tool for data workflows. <br>
+It makes deployment of Kubernetes Cluster with Airflow application easy. <br>
 Airee boosts effectiveness and lets users focus on building data workflows not provisioning infrastructure.
 
 ## Features

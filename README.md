@@ -1,6 +1,6 @@
 # Airee-docs
 # What is Airee? 
-Airee is an Airflow as a Service product (AaaS).
+Airee - Airflow as a Service
 It is an automated solution to deploy Airflow on the cloud. It makes deployment of Kubernetes Cluster with Airflow application quick and easy.
 Airee boosts effectiveness and lets users focus on building data workflows not provisioning infrastructure or implementing CI/CD.
 

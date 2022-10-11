@@ -1,7 +1,7 @@
 ---
 name: "\U0001FAB2 Bug Report"
 about: If you've found a reproducible bug
-title: 
+title: ''
 labels: bug
 assignees: ''
 

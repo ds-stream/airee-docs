@@ -1,11 +1,12 @@
 ---
-name: 💡Feature request
+name: "\U0001F4A1Feature request"
 about: If you have a suggestion for how to improve Airee
 title: ''
-labels: 'enhancement'
+labels: enhancement
 assignees: ''
 
 ---
+
 **NOTE**
 
 Thanks for taking the time to suggest a new feature! Please fill out this form as completely as possible.

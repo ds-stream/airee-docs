@@ -1,7 +1,7 @@
 ---
 name: "\U0001FAB2 Bug Report"
 about: If you've found a reproducible bug
-title: Bug Report
+title: 
 labels: bug
 assignees: ''
 
@@ -19,13 +19,10 @@ issue.
 Note: Please search to see if an issue already exists for the bug you encountered.
 -->
 
-### Current Behavior:
+### What is the issue?:
 <!-- A concise description of what you're experiencing. -->
 
-### Expected Behavior:
-<!-- A concise description of what you expected to happen. -->
-
-### Steps To Reproduce:
+### Steps To reproduce:
 <!--
 Example: steps to reproduce the behavior:
 1. In this environment...
@@ -34,6 +31,10 @@ Example: steps to reproduce the behavior:
 4. See error...
 -->
 
+### Logs, error output, etc:
+<!--
+Please paste plain text of logs/error output
+-->
 ### Environment:
 <!--
 Example:

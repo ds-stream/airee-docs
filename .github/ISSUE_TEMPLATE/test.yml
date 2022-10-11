@@ -1,7 +1,0 @@
-blank_issues_enabled: false
-name: 🪲"Testt"
-body:
-  - type: textarea
-    attributes:
-      label: Possible solution
-      description: "If you have suggestions on a fix for the bug."

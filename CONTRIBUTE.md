@@ -36,7 +36,7 @@ This will enable our team to make sure your contribution does not overlap with e
 4. Code, and please write **tests**.
 5. Ensure all tests pass.
 
-### 3. Open a pull request
+#### 3. Open a pull request
 1. Rebase master with your branch before submitting a pull request.
 2. Open the pull request.
 	 Please create descriptive title for PR with reference to GitHub issue.

@@ -1,19 +1,23 @@
 ---
-name: Feature request
+name: 💡Feature request
 about: If you have a suggestion for how to improve Airee
 title: ''
-labels: ''
+labels: 'enhancement'
 assignees: ''
 
 ---
+**NOTE**
 
-**Is your feature request related to a problem? Please describe.**
+Thanks for taking the time to suggest a new feature! Please fill out this form as completely as possible.
+Please search to see if an issue already exists for the feature you are suggesting.
+
+**What problem are you trying to solve?**
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
-**Describe the solution you'd like**
+**How should the problem be solved?**
 A clear and concise description of what you want to happen.
 
-**Describe alternatives you've considered**
+**Any alternatives you've considered?**
 A clear and concise description of any alternative solutions or features you've considered.
 
 **Additional context**

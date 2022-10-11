@@ -1,8 +1,9 @@
 ---
-name: 🪲 Bug Report
+name: "\U0001FAB2 Bug Report"
 about: If you've found a reproducible bug
-title: "Bug Report"
-labels: ["bug"]
+title: Bug Report
+labels: bug
+assignees: ''
 
 ---
 

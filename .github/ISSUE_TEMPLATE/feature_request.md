@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
+about: If you have a suggestion for how to improve Airee
 title: ''
 labels: ''
 assignees: ''

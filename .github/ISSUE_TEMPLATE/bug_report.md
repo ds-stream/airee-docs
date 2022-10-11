@@ -1,38 +1,46 @@
----
-name: 🪲Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
+name: 🪲"Bug Report"
+description: If you've found a reproducible bug
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to file a bug report!
 
----
+        We're most likely to fix bugs that are easy to reproduce, so please try
+        to provide enough information for us to understand how to reproduce the
+        issue. 
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+  - type: textarea
+    attributes:
+      label: What is the issue?
+      description: |
+        A clear and concise description of what Airee is doing and what you
+        would expect.
+    validations:
+      required: true
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+  - type: textarea
+    attributes:
+      label: How can it be reproduced?
+    validations:
+      required: true
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+  - type: textarea
+    attributes:
+      label: Logs, error output, etc
+      description: |Please provide output of logs with an error message
+    validations:
+      required: true
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+  - type: textarea
+    attributes:
+      label: Environment
+      placeholder: |Please describe used environment     
+    validations:
+      required: true
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+  - type: textarea
+    attributes:
+      label: Possible solution
+      description: "If you have suggestions on a fix for the bug."

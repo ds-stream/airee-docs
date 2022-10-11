@@ -1,7 +1,7 @@
 ---
-name: 🪲"Bug Report"
-description: If you've found a reproducible bug
-title: "[Bug]: "
+name: 🪲 Bug Report
+about: If you've found a reproducible bug
+title: "Bug Report"
 labels: ["bug"]
 
 ---

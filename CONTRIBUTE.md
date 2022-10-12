@@ -20,11 +20,11 @@ Before jumping into the code please first:
 This will enable our team to make sure your contribution does not overlap with existing works.
 
 #### 2. Let's code
-1. Fork our GitHub repositories: <br>
-   For changes in core application:<br>
-   [Airee controller](https://github.com/ds-stream/airee-controller)<br>
-   [Template infra](https://github.com/ds-stream/template_infra_dev)<br>
-   [Template app](https://github.com/ds-stream/template_app_dev)<br>
+1. Fork our GitHub repositories:  
+   For changes in core application:  
+   [Airee controller](https://github.com/ds-stream/airee-controller)  
+   [Template infra](https://github.com/ds-stream/template_infra_dev)  
+   [Template app](https://github.com/ds-stream/template_app_dev)  
    [Template workspace data](https://github.com/ds-stream/template_workspace_data_dev)
    
    For changes in runner:<br>
@@ -33,17 +33,17 @@ This will enable our team to make sure your contribution does not overlap with e
    For changes in monitoring:<br>
    [Airee monitoring]()
    
-3. Open a branch for your work. Please remember to sustain the same branch names between template repositories, thanks to that you will be able to easily test the whole process using —b flag in controller app.
+3. Open a branch for your work. Please remember to sustain the same branch names between template repositories, thanks to that you will be able to easily test the whole process using _-b_ flag in controller app.
 4. Code, and please write **tests**.
 5. Ensure all tests pass.
 
 #### 3. Open a pull request
 1. Rebase master with your branch before submitting a pull request.
 2. Open the pull request.
-	 Please create descriptive title for PR with reference to GitHub issue.
-   Examples:
-    #7 pause/unpuse command added to controller
-    #15 fix for check name length function
+   Please create descriptive title for PR with reference to GitHub issue.  
+   Examples:  
+    #7 pause/unpuse command added to controller  
+    #15 fix for check name length function  
 3. Wait for a review from our team.
 
 ### **Documentation**
@@ -53,7 +53,7 @@ Our goal is to keep our docs comprehensive and updated. If you would like to hel
 * Fix errors in existing docs
 * Help us in adding to the docs
 
-Our docs can be found here (link to repo)
+Our docs can be found [here](https://github.com/ds-stream/Airee-docs)
 
 ### **Requesting new features**
 To request new features, please create an issue on this project.

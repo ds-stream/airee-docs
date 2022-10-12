@@ -5,7 +5,8 @@ Thank you for your interest in contributing! Contribution guidelines are listed 
 Please follow our [Code of conduct](CODE_OF_CONDUCT.md) in the context of any contributions made to Airee.
 
 ## Airee specification
-Before you can start contributing, you need to understand how our product is build, it is simple one so it won’t take you long to read the [docs](https://github.com/ds-stream/Airee-docs) :)
+Before you can start contributing, you need to understand how our product is build, it is simple one so it won’t take you long 
+to read the [docs](https://github.com/ds-stream/Airee-docs)🙂
 
 ## Areas for contributing
 We gladly welcome all improvements existing on the codebase. 

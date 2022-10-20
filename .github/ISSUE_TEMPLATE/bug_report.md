@@ -1,6 +1,7 @@
 ---
 name: "\U0001FAB2 Bug Report"
 about: If you've found a reproducible bug
+project: Airee
 title: ''
 labels: bug
 assignees: ''

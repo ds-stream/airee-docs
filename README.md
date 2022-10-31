@@ -20,7 +20,7 @@ Airee covers the entire process of Airflow deployment - from design and installa
 - Platform is created and maintained by DSStream, team of over 100 experienced engineers working with people from Fortune 500 companies
 
 ## Roadmap
-![](https://github.com/ds-stream/Airee-docs/blob/main/Wiki_images/roadmap.PNG)
+![](https://github.com/ds-stream/Airee-docs/blob/main/Wiki_images/roadmap.png)
 
 ## More info
 You can find full documentation on [Airee-docs github wiki](https://github.com/ds-stream/Airee-docs/wiki).

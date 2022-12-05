@@ -23,15 +23,15 @@ This will enable our team to make sure your contribution does not overlap with e
 1. Fork our GitHub repositories:  
    For changes in core application:  
    [Airee controller](https://github.com/ds-stream/airee-controller)  
-   [Template infra](https://github.com/ds-stream/template_infra_dev)  
-   [Template app](https://github.com/ds-stream/template_app_dev)  
-   [Template workspace data](https://github.com/ds-stream/template_workspace_data_dev)
+   [Template infra](https://github.com/ds-stream/airee-template-infra-gcp)  
+   [Template app](https://github.com/ds-stream/airee-template-app-gcp)  
+   [Template workspace data](https://github.com/ds-stream/airee-template-workspace-data-gcp)
    
    For changes in runner:<br>
-   [Airee runner](https://github.com/ds-stream/runner-container)
+   [Airee runner](https://github.com/ds-stream/airee-runner-gcp)
    
    For changes in monitoring:<br>
-   [Airee monitoring]()
+   [Airee monitoring](https://github.com/ds-stream/airee-monitoring-gcp)
    
 3. Open a branch for your work. Please remember to sustain the same branch names between template repositories, thanks to that you will be able to easily test the whole process using _-b_ flag in controller app.
 4. Code, and please write **tests**.
